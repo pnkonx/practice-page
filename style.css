@@ -1,0 +1,111 @@
+body {
+  margin: 0px 0px;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #1F2937;
+  color: #E5E7EB;
+  margin: 0px;
+  font-size: 10px;
+
+}
+h1 {
+  padding-left: 10%;
+  font-weight: bold;
+}
+.ulOne {
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+  list-style-type: none;
+  gap: 10px;
+  padding-right: 10%;
+  
+}
+
+.divOne {
+  background-color: #1F2937;
+  margin: 0px;
+  color:#f9faf8;
+}
+.left {
+  
+}
+h2 {
+font-size: 40px;
+font-weight: extra-bold;
+color: #f9faf8;
+margin: 0px;
+width: 25%;
+padding-left: 10%;
+padding-top: 10%;
+}
+.divOne-p {
+width: 25%;
+padding-left: 10%;
+}
+.button1 {
+background-color: #3882F6;
+color: #E5E7EB;
+border-radius: 8px;
+padding: 8px 24px;
+border: none;
+margin-left: 10%;
+margin-bottom: 10%;
+}
+.img1 {
+
+}
+.divTwo {
+  background-color: white;
+}
+h3 {
+  color:#1F2937;
+}
+.ulTwo {
+  display: flex;
+  list-style-type: none;
+}
+.img2 {
+  width: 25px;
+  height: 25px;
+  border-style: solid;
+  border-color: #3882F6;
+  border-radius: 8px;
+}
+.divTwo-p {
+  color:#E5E7EB
+}
+.divThree {
+  background-color: #E5E7EB;
+}
+.divThree-p {
+
+}
+h4 {
+
+}
+.divFour {
+  background-color: white;
+}
+.divFourInner {
+ background-color: #3882F6;
+ color: white;
+}
+h5 {
+
+}
+.divFour-p {
+
+}
+.button2 {
+  border-color: white;
+  background-color: #3882F6;
+  color: white;
+}
+footer {
+  background-color: #1F2937;
+  color: white;
+}
+}
